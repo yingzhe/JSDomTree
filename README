@@ -1,0 +1,10 @@
+Description:
+Javascript snipper to draw DOM tree of a page
+
+Usage:
+ 1. Copy paste the entire code into your Javascript console
+ 2. Insert script into your page
+
+Functions:
+initDrawDOMTree() - Draws DOM tree on a page
+resetDOMTree() - Resets DOM tree back to original DOM
